@@ -100,7 +100,7 @@
                     </tbody>
                 </table>
                 <h3 class="text-right">Łącznie: <?php echo number_format($sum, 2, ","," ") . " PLN";?></h3>
-                <p class="text-right text-muted">Wygenerowano dnia <?php echo date("d-m-Y H:i:s"); ?><br>Suma kontrolna: <?php echo uniqid(); ?><br>PHP-Simple-Shop by Machina Labs &copy;2018</p>
+                <small class="text-right text-muted">Wygenerowano dnia <?php echo date("d-m-Y H:i:s"); ?><br>Suma kontrolna: <?php echo uniqid(); ?><br>PHP-Simple-Shop by Machina Labs &copy;2018</small>
             </div>
         </div>
     </div>
