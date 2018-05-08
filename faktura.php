@@ -27,7 +27,7 @@
         <div class="row mt-5">
             <div class="col-12 col-lg-6">
                 <h2>Sprzedawca:</h2>
-                <p>TelefonyDlaLudu.eu<br>Patryk Ciepiela<br>ul. Krakowska 13<br>32-088 Brzozówka<br>NIP: 945 123 45 67<br>Telefon: 12 345 67 89</p>
+                <p>TelefonyDlaLudu.eu<br>Jan Kowalski<br>ul. Koników Polnych 1<br>31-234 Kraków<br>NIP: 945 123 45 67<br>Telefon: 12 345 67 89</p>
             </div>
             <div class="col-12 col-lg-6">
                 <h2>Nabywca:</h2>
