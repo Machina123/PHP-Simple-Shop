@@ -70,7 +70,7 @@
                             $iter = 1;
                             $pricemult = 1;
                             $rebatetext = "0%";
-                            for($i = 1; $i < $prodcount; $i++) {
+                            for($i = 1; $i <= $prodcount; $i++) {
                                 if(isset($_POST["product$i"])) {
                                     $ithproductcount = $_POST["product$i"];
                                     $priceofproduct = $_PRODUCTS["product$i"]["price"];
