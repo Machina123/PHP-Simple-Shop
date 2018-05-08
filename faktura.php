@@ -99,8 +99,8 @@
                         ?>
                     </tbody>
                 </table>
-                <h3 class="text-right">Łącznie: <?php echo number_format($sum, 2, ","," ") . " PLN";?></h3>
-                <small class="text-right text-muted">Wygenerowano dnia <?php echo date("d-m-Y H:i:s"); ?><br>Suma kontrolna: <?php echo uniqid(); ?><br>PHP-Simple-Shop by Machina Labs &copy;2018</small>
+                <h3 class="text-right">Łącznie: <?php echo number_format($sum, 2, ","," ") . " PLN";?></h3><br>
+                <small class="d-block text-right text-muted">Wygenerowano dnia <?php echo date("d-m-Y H:i:s"); ?><br>Suma kontrolna: <?php echo uniqid(); ?><br><a href="https://github.com/Machina123/PHP-Simple-Shop">PHP-Simple-Shop by Machina Labs &copy;2018</a></small>
             </div>
         </div>
     </div>
