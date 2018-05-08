@@ -1,0 +1,10 @@
+html, body {
+    margin-top: 16px;
+    margin-bottom: 16px;
+}
+
+span.reqd{
+    vertical-align:super;
+    font-size:smaller;
+    color: red !important;
+}
