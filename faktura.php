@@ -25,13 +25,13 @@
             </div>
         </div>
         <div class="row mt-5">
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-md-6">
                 <h2>Sprzedawca:</h2>
-                <p>TelefonyDlaLudu.eu<br>Jan Kowalski<br>ul. Koników Polnych 1<br>31-234 Kraków<br>NIP: 945 123 45 67<br>Telefon: 12 345 67 89</p>
+                <p class="w-100 text-center">TelefonyDlaLudu.eu<br>Jan Kowalski<br>ul. Koników Polnych 1<br>31-234 Kraków<br>NIP: 945 123 45 67<br>Telefon: 12 345 67 89</p>
             </div>
-            <div class="col-12 col-lg-6">
+            <div class="col-12 col-md-6">
                 <h2>Nabywca:</h2>
-                <p>
+                <p class="w-100 text-center">
                     <?php
                         $name = $_POST["name"];
                         $entityname = $_POST["entityname"];
