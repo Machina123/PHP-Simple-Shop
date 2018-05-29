@@ -72,7 +72,7 @@
                         <label for="phoneno">Numer telefonu <span class="reqd">*</span></label>
                         <input type="tel" class="form-control" name="phoneno" required>
                     </div>
-                    <button type="submit" class="btn btn-success btn-lg d-block w-100">Złóż zamówienie i pobierz fakturę</button>
+                    <button type="submit" class="btn btn-success btn-lg d-block w-100" <?php if($countempty == $prodcount) echo "disabled"; ?>>Złóż zamówienie i pobierz fakturę</button>
                     <p class="text-center">* - pole wymagane</p>
                 </form>
             </div>
